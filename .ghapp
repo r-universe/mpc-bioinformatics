@@ -1,0 +1,10 @@
+{
+  "id": 180545560,
+  "created_at": "2026-11-10T14:18:24.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mpc-bioinformatics.r-universe.dev"]
+}
