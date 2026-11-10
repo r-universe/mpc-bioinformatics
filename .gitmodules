@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mpc-bioinformatics/mpc-bioinformatics.r-universe.dev
 	branch = HEAD
+[submodule "CalibraCurve"]
+	path = CalibraCurve
+	url = https://github.com/mpc-bioinformatics/CalibraCurve
+	branch = shiny
